@@ -83,7 +83,7 @@ body {
     }
 
     .noisy {
-        @apply absolute inset-0 size-full bg-[url("/images/noise.png")];
+        @apply absolute inset-0  size-full bg-[url("/images/noise.png")];
     }
 
     #hero {
@@ -135,7 +135,7 @@ body {
     }
 
     #cocktails {
-        @apply relative min-h-dvh w-full overflow-hidden;
+        @apply relative min-h-dvh  w-full overflow-hidden;
 
         #c-left-leaf {
             @apply absolute left-0 md:bottom-0 md:top-auto -top-20 md:w-fit w-1/3;
