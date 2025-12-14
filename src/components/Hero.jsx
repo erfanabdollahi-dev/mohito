@@ -85,6 +85,9 @@ const Hero = () => {
                         J
                     </h1>
                     <h1 className=" title" id="mojito">
+                        I
+                    </h1>
+                    <h1 className=" title" id="mojito">
                         T
                     </h1>
                     <h1 className=" title" id="mojito">
